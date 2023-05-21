@@ -1,3 +1,4 @@
-## test
-opisz na czym polega te repozytorium 
-<strong> oraz dodaj zdjecia </strong>
+## Lekcje z projektowania oprogramowań
+<hr>
+
+W tym repozytorium znajdą się wszystkie plki z zajęć z projektowania oprogramowań
