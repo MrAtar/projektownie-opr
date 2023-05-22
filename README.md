@@ -24,8 +24,7 @@ Dzieki temu możesz eksperymentować z różnymi stylami, długościami i kolora
 <strong> 2. Personalizacja:</strong> <br> możliwość wyboru użytkownikowi dopasowania fryzury do jego 
 preferencji, takich jak długość, styl i kolor.<br>
 <strong> 3. Podgląd: </strong> <br> podgląd wybranej fryzury na zdjęciu twarzy, aby użytkownik mógł zobaczyć, 
-jak będzie wyglądać w rzeczywistości
-
+jak będzie wyglądać w rzeczywistości<br>
 <strong> 4.Zapisz swoje ulubione fryzury:</strong> <br> Możesz zapisywać swoje ulubione fryzury, aby łatwo do nich wrócić w przyszłości. To przydatne narzędzie, jeśli planujesz zmianę fryzury w późniejszym terminie.
 <hr>
 <h3> Kontakt</h3>
