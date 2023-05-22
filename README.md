@@ -8,9 +8,9 @@ wykorzystać swój czas i uniknąć frustracji związanej z trudem znalezienia
 odpowiedniej fryzury w tradycyjnych salonach fryzjerskich.
 <br>
 <hr>
- <strong> Funkcje aplikacji: </strong>
+<h3> Funkcje aplikacji: </h3> 
 <br>
-<br>
+
  <strong> 1. Analiza zdjęcia twarzy użytkownika:</strong> <br>załadowanie zdjęcia twarzy użytkownika 
 i dokładne przeanalizowanie w celu określenia kształtu twarzy.<br>
  <strong>2. Połączenie z bazą danych: </strong> <br> porównanie kształtu twarzy użytkownika z dostępnymi 
