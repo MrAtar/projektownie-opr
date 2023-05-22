@@ -19,4 +19,9 @@ w bazie danych wzorcami i sugestiami fryzur, które będą do niej pasować.<br>
 preferencji, takich jak długość, styl i kolor.<br>
 <strong> 4. Podgląd: </strong> <br> podgląd wybranej fryzury na zdjęciu twarzy, aby użytkownik mógł zobaczyć, 
 jak będzie wyglądać w rzeczywistości
-
+<hr>
+<h3> Kontakt</h3>
+Jeśli chcesz się z nami skontaktować to napisz na nasz mail:
+<br>
+<strong> Email:</strong> grupa4po@gmail.com
+<hr>
