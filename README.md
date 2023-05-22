@@ -1,7 +1,21 @@
-## Lekcje z projektowania oprogramowań
+## Barber 2.0
 <hr>
 <br>
-<img src="https://th.bing.com/th/id/R.82ebda4568daec526c1daad3932ee1dd?rik=JW3X6ZJiH4TtXg&pid=ImgRaw&r=0" width="350" title="hover text">
+Witaj w repozytorium aplikacji Barber 2.0, której celem jest umożliwienie klientom łatwego i wygodnego 
+sposobu znalezienia najlepszej fryzury dla ich twarzy, która będzie najlepiej pasować 
+do ich kształtu twarzy i koloru włosów. Dzięki tej aplikacji użytkownicy będą mogli lepiej 
+wykorzystać swój czas i uniknąć frustracji związanej z trudem znalezienia 
+odpowiedniej fryzury w tradycyjnych salonach fryzjerskich.
 <br>
-W tym repozytorium znajdą się wszystkie plki z zajęć z projektowania oprogramowań
-<img src="https://th.bing.com/th/id/R.879ece1dc0fc4220a217b6106cb4a5f4?rik=NEqvp0WUojyVcg&riu=http%3a%2f%2fedukacja.gliwice.eu%2fsites%2fdefault%2ffiles%2fbusiness_card%2fimages%2fzstia.jpg&ehk=Ngyi81pC5FGsB4VhBEFq%2b5g4sBnNOT0iQBPMAuPMhm0%3d&risl=&pid=ImgRaw&r=0" width="350" title="hover text">
+<hr>
+ <strong> Funkcje aplikacji: </strong>
+<br>
+ <strong> 1. Analiza zdjęcia twarzy użytkownika:</strong> załadowanie zdjęcia twarzy użytkownika 
+i dokładne przeanalizowanie w celu określenia kształtu twarzy.
+ <strong>2. Połączenie z bazą danych: </strong> <br> porównanie kształtu twarzy użytkownika z dostępnymi 
+w bazie danych wzorcami i sugestiami fryzur, które będą do niej pasować.<br>
+<strong> 3. Personalizacja:</strong> <br> możliwość wyboru użytkownikowi dopasowania fryzury do jego 
+preferencji, takich jak długość, styl i kolor.
+<strong> 4. Podgląd: </strong> <br> podgląd wybranej fryzury na zdjęciu twarzy, aby użytkownik mógł zobaczyć, 
+jak będzie wyglądać w rzeczywistości
+
