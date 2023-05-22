@@ -10,12 +10,13 @@ odpowiedniej fryzury w tradycyjnych salonach fryzjerskich.
 <hr>
  <strong> Funkcje aplikacji: </strong>
 <br>
- <strong> 1. Analiza zdjęcia twarzy użytkownika:</strong> załadowanie zdjęcia twarzy użytkownika 
-i dokładne przeanalizowanie w celu określenia kształtu twarzy.
+<br>
+ <strong> 1. Analiza zdjęcia twarzy użytkownika:</strong> <br>załadowanie zdjęcia twarzy użytkownika 
+i dokładne przeanalizowanie w celu określenia kształtu twarzy.<br>
  <strong>2. Połączenie z bazą danych: </strong> <br> porównanie kształtu twarzy użytkownika z dostępnymi 
 w bazie danych wzorcami i sugestiami fryzur, które będą do niej pasować.<br>
 <strong> 3. Personalizacja:</strong> <br> możliwość wyboru użytkownikowi dopasowania fryzury do jego 
-preferencji, takich jak długość, styl i kolor.
+preferencji, takich jak długość, styl i kolor.<br>
 <strong> 4. Podgląd: </strong> <br> podgląd wybranej fryzury na zdjęciu twarzy, aby użytkownik mógł zobaczyć, 
 jak będzie wyglądać w rzeczywistości
 
