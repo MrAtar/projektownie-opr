@@ -17,14 +17,16 @@ Aplikacja Barber 2.0 wykonana została z użyciem następujących technologi: <s
 <h3> Funkcje aplikacji: </h3> 
 <br>
 
- <strong> 1. Analiza zdjęcia twarzy użytkownika:</strong> <br>załadowanie zdjęcia twarzy użytkownika 
-i dokładne przeanalizowanie w celu określenia kształtu twarzy.<br>
- <strong>2. Połączenie z bazą danych: </strong> <br> porównanie kształtu twarzy użytkownika z dostępnymi 
+
+  <strong>1.Dobór fryzur: </strong> <br> porównanie kształtu twarzy użytkownika z dostępnymi 
 w bazie danych wzorcami i sugestiami fryzur, które będą do niej pasować.<br>
-<strong> 3. Personalizacja:</strong> <br> możliwość wyboru użytkownikowi dopasowania fryzury do jego 
+Dzieki temu możesz eksperymentować z różnymi stylami, długościami i kolorami włosów, aby znaleźć idealną fryzurę, która Ci odpowiada<br>
+<strong> 2. Personalizacja:</strong> <br> możliwość wyboru użytkownikowi dopasowania fryzury do jego 
 preferencji, takich jak długość, styl i kolor.<br>
-<strong> 4. Podgląd: </strong> <br> podgląd wybranej fryzury na zdjęciu twarzy, aby użytkownik mógł zobaczyć, 
+<strong> 3. Podgląd: </strong> <br> podgląd wybranej fryzury na zdjęciu twarzy, aby użytkownik mógł zobaczyć, 
 jak będzie wyglądać w rzeczywistości
+
+<strong> 4.Zapisz swoje ulubione fryzury:</strong> <br> Możesz zapisywać swoje ulubione fryzury, aby łatwo do nich wrócić w przyszłości. To przydatne narzędzie, jeśli planujesz zmianę fryzury w późniejszym terminie.
 <hr>
 <h3> Kontakt</h3>
 Jeśli chcesz się z nami skontaktować to napisz na nasz mail:
