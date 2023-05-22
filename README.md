@@ -1,6 +1,6 @@
 ## Barber 2.0
 <hr>
-<br>
+
 Witaj w repozytorium aplikacji Barber 2.0, której celem jest umożliwienie klientom łatwego i wygodnego 
 sposobu znalezienia najlepszej fryzury dla ich twarzy, która będzie najlepiej pasować 
 do ich kształtu twarzy i koloru włosów. Dzięki tej aplikacji użytkownicy będą mogli lepiej 
