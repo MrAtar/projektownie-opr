@@ -8,6 +8,11 @@ wykorzystać swój czas i uniknąć frustracji związanej z trudem znalezienia
 odpowiedniej fryzury w tradycyjnych salonach fryzjerskich.
 <br>
 <hr>
+<h3> Technologia: </h3>
+Aplikacja Barber 2.0 wykonana została z użyciem następujących technologi: <strong> HTML</strong>, <strong>CSS</strong>, <strong>JS</strong>. <br>Ponadto aplikacja bedzie podpięta pod baze danych fryzur, która stworzona jest w języku SQL. 
+
+<br>
+<hr>
 <h3> Funkcje aplikacji: </h3> 
 <br>
 
