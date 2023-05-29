@@ -1,5 +1,6 @@
 # Informacje o mnie
-Witaj! Jestem osobą, która dopiero rozpoczyna swoją przygodę z programowaniem. Moje zainteresowanie technologią sprawia, że ciągle rozwijam się w różnych dziedzinach. Posiadam solidne podstawy HTML, JavaScript, CSS, PHP i Python, ale najbardziej pasjonuje mnie tworzenie stron internetowych przy użyciu HTML-a. Moim ulubionym językiem programowania jest CPP.
+Witaj!<br>
+Jestem osobą, która dopiero rozpoczyna swoją przygodę z programowaniem. Moje zainteresowanie technologią sprawia, że ciągle rozwijam się w różnych dziedzinach. Posiadam solidne podstawy HTML, JavaScript, CSS, PHP i Python, ale najbardziej pasjonuje mnie tworzenie stron internetowych przy użyciu HTML-a. Moim ulubionym językiem programowania jest CPP.
 
 ## Edukacja
 Obecnie jestem uczniem Zespołu Szkół Technicznych i Informatycznych (ZSTI), gdzie staram się zdobywać wiedzę z zakresu programowania i technologii informatycznych. Moje zaangażowanie oraz pasja do programowania motywują mnie do rozwoju umiejętności zarówno na lekcjach, jak i poza nimi.
@@ -17,6 +18,7 @@ Znam podstawy PHP i potrafię tworzyć dynamiczne strony internetowe.
 ### Python
 Mam podstawową wiedzę na temat języka Python.
 Potrafię pisać proste skrypty i aplikacje w Pythonie.
+
 
 
 <br><br><br>
